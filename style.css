@@ -1,0 +1,33 @@
+.heading  h3
+{
+    display: inline;
+    float:left;
+}
+
+.big_image
+{
+    width:100%;
+}
+
+#start,#status
+{
+    font-size:22px;
+}
+
+.heading button
+{
+    float:right;
+    font-size:20px;
+    font-weight: bold;
+    border:1px solid white;
+}
+.heading
+{
+    width:100%;
+}
+h4 
+{
+margin:0px;
+line-height:2;
+background-color:white;
+}
